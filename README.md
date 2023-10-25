@@ -1,4 +1,4 @@
-# 🖧 Computer-Networks_Homework1
+# 🌐 Computer-Networks_Homework1
 
 ## 🧾 Requirements:
 
